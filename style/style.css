@@ -290,7 +290,7 @@ li p span {
 @media (max-width: 550px) {
     .header {
         flex-direction: column;
-        padding: 10px;
+        padding-bottom: 10px;
     }
 
     .logo {
