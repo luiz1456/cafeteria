@@ -290,7 +290,12 @@ li p span {
 @media (max-width: 550px) {
     .header {
         flex-direction: column;
-        padding: 0 10px 20px 10px;
+        padding: 10px;
+    }
+
+    .logo {
+        width: 50px;
+        height: 60px;
     }
     
     .navegacao {
@@ -298,7 +303,7 @@ li p span {
         justify-content: center;
         width: 100%;
         border-top: 1px solid #000;
-        padding-top: 10px;
+        padding-top: 5px;
     }
 
 }
